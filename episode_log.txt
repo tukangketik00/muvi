@@ -15,6 +15,15 @@ EP[nomor] — [TITLE]
   Karakter berulang (jika serial): ...
 ════════════════════════════════════════════════════════════════════════
 
+EP001 — The Guard She Underestimated
+  Logline: A stoic young bodyguard who is humiliated by the wealthy teen he protects must save her life hours later, forcing her to confront who actually deserves her respect.
+  Creator insight: The people we're quickest to look down on are often the ones who show up hardest when it counts, and real respect is earned in a crisis, not given by status.
+  Tema AS: LA private-security/bodyguard-for-hire culture (Leo's job stakes drive the plot); industrial back-alley setting as escalation ground.
+  PLOT DNA: 1) motor konflik: kewajiban tugas vs penghinaan pribadi | 2) relasi: pengawal-klien (bodyguard-employer) | 3) titik balik: Brutus mengadang dan mengancam Chloe di gang | 4) resolusi: kemenangan kecil, rekonsiliasi hormat (non-romantis) | 5) nada: tense-relief | 6) hook: aksi mendadak (Chloe menjatuhkan air ke sepatu Leo)
+  Soft-limit elements used: konflik fisik (S02-S03, tanpa darah/luka, R10 aktif).
+  Karakter berulang (jika serial): none (episode standalone).
+
+
 EP001 — The Photo in Her Wallet
   Logline: A rule-bound credit union teller wants to keep the system fair for everyone, but a panicked mother begs for an emergency withdrawal outside system limits, forcing him to choose between blind compliance and finding a legitimate way to help.
   Creator insight: Systems built to protect people from fraud are the same systems that can make someone truly in need invisible; compliance and compassion are not automatically opposed, but someone has to choose to hold both at once.
