@@ -1,6 +1,4 @@
----
-halo
----
+
 ════════════════════════════════════════════════════════════════════════
 EPISODE LOG — FILE EKSTERNAL (sumber utama pembanding ANTI-TEMPLATE RULE, BAGIAN 0.3)
 Aturan: 1 entri per episode selesai, ditambahkan di baris paling bawah. Entri lama tidak boleh diubah/dihapus. File ini disertakan bersama MASTER TEMPLATE di setiap sesi pembuatan cerita baru, dan versi terbarunya diserahkan kembali bersama JSON episode (MASTER TEMPLATE 0.7 langkah 0 & 7).
@@ -31,3 +29,133 @@ EP001 — The Photo in Her Wallet
   PLOT DNA: 1) motor konflik: aturan/sistem vs waktu | 2) relasi: orang asing (teller-nasabah) | 3) titik balik: teller melihat foto anak nasabah yang lusuh jatuh dari dompet, mengingatkannya pada alasan pribadinya sendiri | 4) resolusi: kemenangan kecil lewat eskalasi manajer yang sah, bukan pelanggaran aturan | 5) nada: quiet-drama, tense-relief | 6) hook: layar sistem "TRANSACTION DENIED" muncul bersamaan nasabah memukul meja panik
   Soft-limit elements used: kesulitan uang (medical/ER urgency) — motor cerita, resolusi manusiawi, tanpa angka/nasihat keuangan ke penonton.
   Karakter berulang: none (episode standalone).
+
+ ---
+
+EP001 — He Chose Honesty Over A Found Fortune
+Logline: Seorang pemuda miskin yang terancam diusir menemukan koper berisi uang tunai di kereta, namun memilih mengembalikannya hingga mendapat imbalan yang mengubah hidupnya.
+Creator insight: Kejujuran saat berada di titik terendah ekonomi adalah ujian integritas sejati yang sering kali mendatangkan kesempatan tak terduga.
+Tema AS: Integritas moral di tengah krisis finansial dan kesempatan kerja dari pengusaha kaya.
+PLOT DNA: 1) motor konflik: koper uang vs ancaman pengusiran | 2) relasi: orang asing → penolong & pengusaha | 3) pemuda mengejar pemilik koper hingga ke gedung kantor untuk mengembalikan uang | 4) pengusaha memberikan tawaran pekerjaan alih-alih sekadar tips | 5) warm-inspirational | 6) adegan mengejar kereta dan pilihan moral saat melihat foto keluarga di koper
+Soft-limit elements used: eviction notice (alasan krisis finansial).
+Karakter berulang (jika serial): none.
+
+---
+
+EP002 — He Fed A Lost Dog And Changed His Life
+Logline: Seorang tunawisma yang membagikan makanan terakhirnya kepada anjing terlantar akhirnya menemukan jalan keluar dari kemelaratan setelah mengembalikan anjing tersebut ke pemiliknya.
+Creator insight: Kebaikan kecil tanpa pamrih kepada makhluk hidup yang lemah sering menjadi awal dari takdir yang mengubah hidup seseorang.
+Tema AS: Budaya kepedulian terhadap hewan peliharaan hilang dan kesempatan kedua bagi tuna wisma.
+PLOT DNA: 1) motor konflik: bertahan hidup di musim dingin | 2) relasi: tunawisma → anjing terlantar → keluarga pemilik | 3) menemukan poster anjing hilang dan menghubungi pemiliknya | 4) pemilik anjing memberikan pekerjaan dan seragam baru di proyek konstruksi | 5) heartwarming-emotional | 6) momen membagi sisa makanan terakhir di gang dingin
+Soft-limit elements used: none.
+Karakter berulang (jika serial): none.
+
+---
+
+EP003 — Would you pretend to be a stranger’s grandkid?
+Logline: Seorang gadis muda setuju berpura-pura menjadi cucu seorang pria tua yang kesepian, hanya untuk menyadari bahwa pria tersebut adalah pahlawan yang menyelamatkan nyawanya 15 tahun lalu.
+Creator insight: Hubungan antarmanusia yang tulus tidak selalu terikat hubungan darah, dan kebaikan masa lalu sering kali berputar kembali.
+Tema AS: Isu kesepian pada lansia dan tradisi kesukarelaan komunitas lokal.
+PLOT DNA: 1) motor konflik: kesepian lansia vs kepedulian anak muda | 2) relasi: orang asing → cucu angkat → penyelemat masa kecil | 3) penemuan foto lama dari peristiwa banjir besar 15 tahun lalu | 4) terbentuknya gerakan kepedulian untuk mendatangi lansia kesepian di seluruh kota | 5) emotional-touching | 6) janji sederhana untuk kembali setiap hari Sabtu jam 2 siang
+Soft-limit elements used: trauma bencana alam (flood rescue background).
+Karakter berulang (jika serial): none.
+
+---
+
+EP004 — A True Act of Kindness Is Never Wasted 🍞❤️
+Logline: Pemilik toko roti merespons pencurian roti oleh remaja lapar dengan kasih sayang dan ajaran membuat roti, yang kelak menyelamatkan toko roti tersebut dari kebangkrutan.
+Creator insight: Mengajari seseorang keterampilan hidup jauh lebih berdampak daripada menghukum kesalahan yang didasari rasa lapar.
+Tema AS: Bisnis toko roti lokal, pendampingan pemuda terpuruk, dan penyelamatan usaha kecil.
+PLOT DNA: 1) motor konflik: pencurian roti vs belas kasih | 2) relasi: pemilik toko & pencuri → mentor & murid → penyelamat bisnis | 3) toko roti terpaksa tutup dan dijual karena masalah keuangan | 4) murid yang kini sukses membeli properti dan membuka kembali toko roti tersebut | 5) warm-legacy | 6) dialog "Bukan cuma memberi pekerjaan, tapi memberi kehidupan."
+Soft-limit elements used: bankruptcy/financial closure (tanpa rincian angka).
+Karakter berulang (jika serial): none.
+
+---
+
+EP005 — Everyone froze when the rookie broke the academy record!
+Logline: Seorang rekrut pilot dari latar belakang biasa diejek oleh saingannya yang kaya, lalu membuktikan kemampuannya dengan memecahkan rekor simulator penerbangan ekstrem.
+Creator insight: Keahlian dan ketenangan nyata di bawah tekanan selalu lebih unggul daripada hak istimewa dan kesombongan.
+Tema AS: Persaingan di akademi penerbangan AS dan diskriminasi kelas sosial.
+PLOT DNA: 1) motor konflik: diskriminasi kelas vs keahlian murni | 2) relasi: rivalitas rekrut kaya & rekrut biasa | 3) navigasi sukses di simulator kondisi badai ekstrem yang menggagalkan peserta lain | 4) klaim kecurangan dibantah oleh telemetry log resmi yang mengonfirmasi rekor baru | 5) intense-satisfying | 6) papan skor akhir menunjukkan posisi teratas akademi
+Soft-limit elements used: none.
+Karakter berulang (jika serial): none.
+
+---
+
+EP006 — Cops Surprise Heartbroken Coffee Vendor
+Logline: Seorang penjual kopi tua yang hancur hatinya karena gerobaknya disita polisi ternyata mendapat kejutan tak terduga dari seluruh jajaran kepolisian.
+Creator insight: Penegakan aturan keselamatan tidak selalu harus mematikan mata pencaharian jika komunitas peduli pada usaha warga kecil.
+Tema AS: Budaya pedagang kaki lima (coffee cart culture) dan hubungan kepolisian dengan komunitas lokal.
+PLOT DNA: 1) motor konflik: penyitaan gerobak vs sumber penghidupan | 2) relasi: penjual kopi → aparat polisi | 3) penjual dibawa ke alun-alun bukannya ke kantor polisi | 4) penyerahan kedai kopi modern baru hasil patungan seluruh presint | 5) emotional-comfort | 6) tangis haru saat menyentuh kedai kopi baru
+Soft-limit elements used: none.
+Karakter berulang (jika serial): none.
+
+---
+
+EP007 — He Protected His Sister, Then THIS Happened!
+Logline: Seorang pria pasang badan membela adiknya dari pelanggan yang kasar di restoran, memicu tindakan kebaikan berantai dari staf sekitar.
+Creator insight: Keberanian tenang untuk melindungi keluarga tidak hanya meredam intimidasi tetapi juga menginspirasi rasa solidaritas lingkungan.
+Tema AS: Perlindungan keluarga dan kebiasaan berkumpul di diner lokal.
+PLOT DNA: 1) motor konflik: intimidasi pelanggan vs perlindungan saudara | 2) relasi: kakak & adik vs pengganggu | 3) deeskalasi konflik dan pengusiran pengganggu tanpa luka serius | 4) staf diner memberikan makanan gratis sebagai bentuk dukungan komunitas | 5) action-warm | 6) adegan beladiri taktis meredam serangan di gang hujan
+Soft-limit elements used: none.
+Karakter berulang (jika serial): none.
+
+---
+
+EP008 — He Tried To Evict Them, Then THIS Happened!
+Logline: Tetangga yang kasar mencoba mengusir sebuah keluarga secara sewenang-wenang, namun perlawanan berani dan kekompakan warga menggagalkan niat jahatnya.
+Creator insight: Perundung sering kali memanfaatkan rasa takut, tetapi kekompakan komunitas dapat menjadi benteng pertahanan terbaik.
+Tema AS: Sengketa sewa apartemen dan intimidasi tetangga di kompleks hunian.
+PLOT DNA: 1) motor konflik: intimidasi tempat tinggal vs perlawanan diri | 2) relasi: perundung vs ibu-anak & komplotan warga | 3) penyerahan bukti rekaman intimidasi kepada pihak manajemen | 4) penghentian gertakan pengusiran dan pemulihan rasa aman warga | 5) tense-triumphant | 6) teknik beladiri spontan sang anak saat menghadapi intimidasi di tempat parkir
+Soft-limit elements used: none.
+Karakter berulang (jika serial): none.
+
+---
+
+EP009 — He Returned A Lost Wallet. What Happened Next Change His Life
+Logline: Kejujuran seorang pemuda miskin yang mengembalikan dompet berisi uang berbuah beasiswa pilot penuh dari pemilik dompet tersebut bertahun-tahun kemudian.
+Creator insight: Nilai kejujuran tanpa mengharapkan imbalan adalah investasi karakter terbaik yang dapat membukakan pintu masa depan.
+Tema AS: Beasiswa penerbangan dan nilai integritas pribadi dalam masyarakat.
+PLOT DNA: 1) motor konflik: kemiskinan & impian tinggi vs godaan uang instant | 2) relasi: penemu dompet → pengusaha/mentor | 3) penolakan imbalan tunai dan penyerahan cek $100,000 bertahun-tahun kemudian | 4) pemuda berhasil menyelesaikan sekolah penerbangan dan menjadi pilot | 5) inspirational-uplifting | 6) penolakan uang imbalan dengan ucapan "Doing right is reward enough."
+Soft-limit elements used: none.
+Karakter berulang (jika serial): none.
+
+---
+
+EP010 — They Picked On The Wrong Inmate, Then THIS Happened!
+Logline: Geng penjara mencoba mengintimidasi narapidana baru di kantin, tanpa menyadari bahwa orang yang mereka serang adalah agen rahasia berkeahlian tempur tinggi.
+Creator insight: Penampilan luar dan keheningan seseorang sering kali menyimpan kekuatan tersembunyi yang tak terduga.
+Tema AS: Dinamika penjara maksimum dan tropus agen rahasia menyamar.
+PLOT DNA: 1) motor konflik: intimidasi geng penjara vs agen rahasia | 2) relasi: pimpinan geng vs agen menyamar | 3) agen melumpuhkan seluruh anggota geng menggunakan nampan makan dalam hitungan detik | 4) kepala penjara memanggil sang agen untuk koordinasi misi lanjutan | 5) action-thriller | 6) penggunaan nampan makan sebagai perisai dan senjata pertahanan
+Soft-limit elements used: prison violence (dipertontonkan secara bergaya/stylized).
+Karakter berulang (jika serial): none.
+
+---
+
+EP011 — He Didn't Recognize His New Boss
+Logline: Pria lusuh yang dihina oleh satpam gedung tinggi ternyata baru saja diangkat menjadi Kepala Keamanan setelah menyelamatkan nyawa ibu dari sang CEO.
+Creator insight: Keberanian sejati dan karakter seseorang tidak diukur dari pakaian yang dikenakannya, melainkan tindakan nyata saat krisis.
+Tema AS: Hirarki korporat elit AS dan insiden keselamatan jalan raya.
+PLOT DNA: 1) motor konflik: prasangka penampilan vs keberanian menyelamatkan nyawa | 2) relasi: penolong → ibu CEO → satpam arogan | 3) kedatangan CEO yang menghentikan penangkapan salah sasaran oleh satpam | 4) perkenalan pria tersebut sebagai Chief of Security baru di depan para satpam yang menghinanya | 5) dramatic-satisfying | 6) transformasi dari pakaian lusuh ke setelan jas eksekutif di ruang rapat
+Soft-limit elements used: traffic accident risk (penyelamatan dari mobil melaju).
+Karakter berulang (jika serial): none.
+
+---
+
+EP012 — He Was Chased For A Secret Drive, Then THIS Happened
+Logline: Seorang kurir sepeda membawa *flashdrive* rahasia melewati kejaran ketat pengejar bersenjata di tengah lalu lintas kota demi menyelesaikan misinya.
+Creator insight: Kelincahan, penguasaan medan kota, dan keberanian dapat mengalahkan kecepatan kendaraan bermotor.
+Tema AS: Budaya kurir sepeda kota besar (urban bike messenger) dan spionase industri.
+PLOT DNA: 1) motor konflik: Pengejaran paket rahasia vs meloloskan diri | 2) relasi: kurir sepeda vs musuh/pengejar | 3) lompatan nekat melompati rintangan peti kayu yang menghentikan pengejar | 4) keberhasilan meloloskan diri ke dalam kereta bawah tanah tepat sebelum pintu tertutup | 5) fast-paced action | 6) lompatan sepeda melewati rintangan kayu di gang sempit
+Soft-limit elements used: high-speed chase (aksi perkelahian/pengejaran tanpa senjata api langsung).
+Karakter berulang (jika serial): none.
+
+---
+
+EP013 — Mereka Salah Pilih Lawan, Lihat Apa yang Terjadi!
+Logline: Sekelompok prajurit militer yang arogan mencoba mengintimidasi seorang wanita di tempat makan, sebelum menyadari wanita tersebut memiliki keahlian tempur mematikan.
+Creator insight: Kesombongan dan pengangkatan status sering kali membuahkan kekalahan brutal jika meremehkan orang lain.
+Tema AS: Interaksi personel militer dengan warga sipil dan trope *underestimated hero*.
+PLOT DNA: 1) motor konflik: keangkuhan militer vs taktik tempur sipil | 2) relasi: skuadron militer vs wanita terampil | 3) penangkapan serangan dan pembongkaran pertahanan lawan secara efisien | 4) penumpasan seluruh skuadron hingga mereka tergeletak di lantai | 5) intense-badass | 6) wanita dingin menganalisis titik lemah musuh sebelum melakukan serangan balik
+Soft-limit elements used: physical confrontation (pertarungan jarak dekat).
+Karakter berulang (jika serial): none.
