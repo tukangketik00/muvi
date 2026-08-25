@@ -1,3 +1,6 @@
+---
+halo
+---
 ════════════════════════════════════════════════════════════════════════
 EPISODE LOG — FILE EKSTERNAL (sumber utama pembanding ANTI-TEMPLATE RULE, BAGIAN 0.3)
 Aturan: 1 entri per episode selesai, ditambahkan di baris paling bawah. Entri lama tidak boleh diubah/dihapus. File ini disertakan bersama MASTER TEMPLATE di setiap sesi pembuatan cerita baru, dan versi terbarunya diserahkan kembali bersama JSON episode (MASTER TEMPLATE 0.7 langkah 0 & 7).
