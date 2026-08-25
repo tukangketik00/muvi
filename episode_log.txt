@@ -14,3 +14,11 @@ EP[nomor] — [TITLE]
   Soft-limit elements used: ... (atau none)
   Karakter berulang (jika serial): ...
 ════════════════════════════════════════════════════════════════════════
+
+EP001 — The Photo in Her Wallet
+  Logline: A rule-bound credit union teller wants to keep the system fair for everyone, but a panicked mother begs for an emergency withdrawal outside system limits, forcing him to choose between blind compliance and finding a legitimate way to help.
+  Creator insight: Systems built to protect people from fraud are the same systems that can make someone truly in need invisible; compliance and compassion are not automatically opposed, but someone has to choose to hold both at once.
+  Tema AS: community credit union with a strict fraud-hold verification policy driving the plot; medical/ER urgency as the reason for the emergency request (no financial figures or advice given to viewers).
+  PLOT DNA: 1) motor konflik: aturan/sistem vs waktu | 2) relasi: orang asing (teller-nasabah) | 3) titik balik: teller melihat foto anak nasabah yang lusuh jatuh dari dompet, mengingatkannya pada alasan pribadinya sendiri | 4) resolusi: kemenangan kecil lewat eskalasi manajer yang sah, bukan pelanggaran aturan | 5) nada: quiet-drama, tense-relief | 6) hook: layar sistem "TRANSACTION DENIED" muncul bersamaan nasabah memukul meja panik
+  Soft-limit elements used: kesulitan uang (medical/ER urgency) — motor cerita, resolusi manusiawi, tanpa angka/nasihat keuangan ke penonton.
+  Karakter berulang: none (episode standalone).
