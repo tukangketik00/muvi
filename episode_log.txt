@@ -12,6 +12,17 @@ EP[nomor] — [TITLE]
   Soft-limit elements used: ... (atau none)
   Karakter berulang (jika serial): ...
 ════════════════════════════════════════════════════════════════════════
+
+EP017 — The Window He Broke To Save A Stranger
+  Logline: A window washer working extra shifts to pay for his daughter's treatment gets trapped on a collapsing platform 78 floors up when a storm hits, and a hedge fund executive must decide whether his own glass office is worth more than a stranger's life.
+  Creator insight: The people who look coldest on paper are sometimes the fastest to destroy their own wealth the moment a life is actually on the line; kindness under real pressure says more than kindness performed for an audience.
+  Tema AS: high-rise hedge fund/corporate office culture (bulletproof glass becomes both barrier and rescue tool); high-rise window-washing gig labor (medical-cost backstory drives why Marcus keeps working through the storm).
+  PLOT DNA: 1) motor konflik: bahaya fisik mendadak akibat badai, bukan uang/relasi/rahasia | 2) relasi: orang asing total | 3) titik balik: tali pengaman putus total, satu-satunya jalan adalah eksekutif memecahkan kaca anti-pelurunya sendiri | 4) resolusi: penyelamatan fisik langsung lewat pengorbanan properti pribadi | 5) nada: tense-relief menuju quiet-warm | 6) hook: aksi fisik mendadak (angin badai, alat terlempar, tali terkelupas)
+  Soft-limit elements used: kesulitan biaya pengobatan anak (motor motivasi, tanpa angka/nasihat); bahaya fisik/kontak fisik ringan akibat kecelakaan dan penyelamatan (S04-S05, tanpa cedera terlihat, R10 aktif).
+  Karakter berulang (jika serial): none.
+
+---
+
 EP016 — Her Grocery Card Declined—Then the Cashier Did This Quietly
   Logline: A grocery cashier sees a tired customer's card decline and quietly uses a customer-funded Neighbor Credit system instead of letting her leave hungry or humiliated.
   Creator insight: Real kindness protects dignity instead of performing charity; one quiet decision at an American grocery checkout can turn hardship into a shared community habit.
