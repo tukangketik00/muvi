@@ -13,6 +13,16 @@ EP[nomor] — [TITLE]
   Karakter berulang (jika serial): ...
 ════════════════════════════════════════════════════════════════════════
 
+EP015 — He Chased a Thief, and Found Someone to Save
+  Logline: A hot-tempered bakery owner wants to catch and punish the stray dog that stole from his shop, but cornering it in a dead-end alley forces him to see who the dog was really stealing for, and he must decide whether his anger is worth more than a stranger's life.
+  Creator insight: A stray dog and a starving kid had already built their own working system of survival, sharing food every single day, long before the man with the store and the money ever noticed or thought to help.
+  Tema AS: independent bakery ownership culture (gives the job offer personal weight); urban winter homelessness and hypothermia risk (drives the medical emergency).
+  PLOT DNA: 1) motor konflik: pencurian (dimediasi hewan) yang berbalik jadi rasa bersalah & tanggung jawab | 2) relasi: segitiga manusia-hewan-manusia (pemilik toko - anjing liar - pemuda tunawisma) | 3) titik balik: pemilik toko melihat anjing meletakkan roti curian di pangkuan pemuda yang menggigil, sadar ini rutinitas harian | 4) resolusi: biaya perawatan ditanggung + pekerjaan di toko roti + anjing diadopsi jadi maskot | 5) nada: bittersweet ke heartwarming | 6) hook: aksi fisik mendadak (pencurian roti + kejaran pakai sapu)
+  Soft-limit elements used: homelessness + hypothermia emergency (resolved humanely, no medical figures/advice); brief non-violent physical contact (S04, R10 applied).
+  Karakter berulang (jika serial): none (episode standalone).
+
+---
+
 EP001 — The Guard She Underestimated
   Logline: A stoic young bodyguard who is humiliated by the wealthy teen he protects must save her life hours later, forcing her to confront who actually deserves her respect.
   Creator insight: The people we're quickest to look down on are often the ones who show up hardest when it counts, and real respect is earned in a crisis, not given by status.
