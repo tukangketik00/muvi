@@ -13,6 +13,16 @@ EP[nomor] — [TITLE]
   Karakter berulang (jika serial): ...
 ════════════════════════════════════════════════════════════════════════
 
+EP018 — The Generator That Was Killing Him Quietly
+  Logline: Hector, pedagang gerobak makanan imigran, hanya ingin generatornya menyala agar dagingnya tidak busuk malam itu, tapi seorang Fire Marshal justru menghancurkan generator itu di depan matanya, dan Hector harus mempercayai penjelasan yang terdengar mustahil sebelum ia kehilangan usahanya atau nyawanya sendiri.
+  Creator insight: Aturan keselamatan yang tampak paling kejam di detik pertama sering kali adalah bentuk kepedulian yang paling cepat — dan orang yang menegakkannya jarang sempat menjelaskan diri sebelum dianggap jahat.
+  Tema AS: budaya food cart kaki lima kota AS sebagai mata pencaharian rentan penegakan aturan; protokol keselamatan first-responder AS soal karbon monoksida.
+  PLOT DNA: 1) motor konflik: bahaya kesehatan tak terlihat (CO) disalahartikan sebagai penindakan sewenang-wenang | 2) relasi: orang asing (pedagang vs figur otoritas) | 3) titik balik: petugas menunjukkan manifold retak & menjelaskan sains CO, Hector sadar air yang dituang adalah penyelamatan | 4) resolusi: pendaftaran ke program hibah kota untuk transisi UMKM energi bersih, unit lithium dikirim mitra program malam itu juga (bukan patungan pribadi rekan kerja) | 5) nada: tense-urgent menuju calm-relief dan quiet-grateful | 6) hook: aksi fisik mendadak (tendang kabel, sita, tuang air ke tangki) tanpa penjelasan
+  Soft-limit elements used: kesulitan uang mendadak (motor cerita, tanpa angka, resolusi manusiawi).
+  Karakter berulang (jika serial): none (standalone).
+
+---
+
 EP017 — The Window He Broke To Save A Stranger
   Logline: A window washer working extra shifts to pay for his daughter's treatment gets trapped on a collapsing platform 78 floors up when a storm hits, and a hedge fund executive must decide whether his own glass office is worth more than a stranger's life.
   Creator insight: The people who look coldest on paper are sometimes the fastest to destroy their own wealth the moment a life is actually on the line; kindness under real pressure says more than kindness performed for an audience.
