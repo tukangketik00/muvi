@@ -13,6 +13,16 @@ EP[nomor] — [TITLE]
   Karakter berulang (jika serial): ...
 ════════════════════════════════════════════════════════════════════════
 
+EP019 — The Card He Left Behind
+  Logline: Colter Ashford, a rushed startup executive, topples Amos Whitlock's fruit cart on a sidewalk and refuses to help, unaware his access keycard has fallen loose during the confrontation, and must face the consequences of losing it right before his biggest meeting.
+  Creator insight: People who rush too hard toward success often drop the small thing they need most, and the person they ignored is usually the only one who returns it without asking for anything back.
+  Tema AS: sidewalk fruit cart culture; corporate keycard/security access system.
+  PLOT DNA: 1) motor konflik: waktu+keangkuhan | 2) relasi: orang asing total | 3) titik balik: keycard jatuh tak disadari saat Colter membentak Amos | 4) resolusi: Colter terkunci di rapat karena kartunya sendiri, Amos mengembalikan tanpa pamrih | 5) nada: bittersweet-ironic ke quiet-drama | 6) hook: gerobak buah terguling mendadak
+  Soft-limit elements used: none.
+  Karakter berulang (jika serial): none.
+
+---
+
 EP018 — The Generator That Was Killing Him Quietly
   Logline: Hector, pedagang gerobak makanan imigran, hanya ingin generatornya menyala agar dagingnya tidak busuk malam itu, tapi seorang Fire Marshal justru menghancurkan generator itu di depan matanya, dan Hector harus mempercayai penjelasan yang terdengar mustahil sebelum ia kehilangan usahanya atau nyawanya sendiri.
   Creator insight: Aturan keselamatan yang tampak paling kejam di detik pertama sering kali adalah bentuk kepedulian yang paling cepat — dan orang yang menegakkannya jarang sempat menjelaskan diri sebelum dianggap jahat.
