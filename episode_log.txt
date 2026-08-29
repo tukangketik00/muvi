@@ -15,6 +15,17 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP022 — The Blanket She Mended in Silence
+  Logline: Harlan Sutton, a veteran widower, wants his late wife's wool blanket back, but wrongly accuses his neighbor Marisol of stealing it from a laundromat, and must face his own shame when he learns she was quietly mending it.
+  Creator insight: The people we're quickest to suspect are often the ones quietly taking the most care of what we have — suspicion says more about our own fear than about them.
+  Tema AS: coin laundromat culture (drives the missing-property plot and the wrongful accusation).
+  PLOT DNA: 1) motor konflik: misunderstanding (missing property leads to wrongful accusation) | 2) relasi: neighbors (strangers living nearby) | 3) titik balik: Harlan finds Marisol mending his torn wool blanket with a floral stitch pattern identical to his late wife's | 4) resolusi: quiet reconciliation, wordless respect | 5) nada: quiet-drama to bittersweet-warm | 6) hook: sudden action, Harlan opens the washer and finds the blanket gone
+  Soft-limit elements used: duka kehilangan pasangan (grief for late wife, resolved through action at S05, no empty emotional display).
+  Karakter berulang (jika serial): none.
+  Summary: Harlan salah menuduh tetangganya Marisol mencuri selimut wolnya dari laundromat, lalu tersadar gadis itu diam-diam menjahitnya dengan pola bordir bunga persis gaya mendiang istrinya, berakhir dengan rekonsiliasi diam penuh hormat.
+
+---
+
 EP021 — The Landlord Who Chased the Dog
   Logline: Boone Halloway, a rigid apartment landlord who just taped a final rent notice on tenant Wren Prescott's door, must chase her runaway dog Dodger into busy traffic, accidentally reopening a grief he's never spoken about.
   Creator insight: People who are toughest about rules are often guarding themselves from a loss they've never talked about — once you know why, the hardness reads as human, not cruel.
