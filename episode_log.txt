@@ -240,3 +240,14 @@ PLOT DNA: 1) motor konflik: kebutuhan obat mendesak vs aturan ketat apotik | 2) 
 Soft-limit elements used: none
 Karakter berulang (jika serial): none (episode standalone).
 Summary: Pria tua menukar cincin nikahnya demi obat istrinya yang sakit, dan asisten apotek yang menolak perintah bosnya memberi obat gratis serta mengembalikan cincin itu.
+
+----
+
+EP020 — The Watch He Almost Let Go
+  Logline: Gideon Whitlock, a retired mechanic, quietly pawns his heirloom watch to cover a mounting clinic bill, unaware it carries a hidden serial number that reveals unexpected worth.
+  Creator insight: The things we're most ready to give up in shame turn out to be the ones that were quietly worth the most all along.
+  Tema AS: pawn shop appraisal culture (drives the turning point via serial-number reveal); medical debt (Gideon's reason for pawning, no figures/advice).
+  PLOT DNA: 1) motor konflik: uang (medical debt) + kebanggaan/rahasia | 2) relasi: suami-istri | 3) titik balik: appraiser menemukan nomor seri tersembunyi di balik casing jam | 4) resolusi: kemenangan kecil + kejujuran tersirat ke istri | 5) nada: bittersweet-warm | 6) hook: aksi diam-diam melepas jam sambil menoleh ke tagihan klinik
+  Soft-limit elements used: medical debt (motor cerita, tanpa angka/nasihat).
+  Karakter berulang (jika serial): none.
+  Summary: Seorang mekanik pensiunan diam-diam menggadaikan jam warisan untuk tagihan klinik, lalu nomor seri tersembunyi di jam itu membuka penawaran jauh di atas dugaannya dari klub kolektor.
