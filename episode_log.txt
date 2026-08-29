@@ -15,6 +15,17 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP021 — The Landlord Who Chased the Dog
+  Logline: Boone Halloway, a rigid apartment landlord who just taped a final rent notice on tenant Wren Prescott's door, must chase her runaway dog Dodger into busy traffic, accidentally reopening a grief he's never spoken about.
+  Creator insight: People who are toughest about rules are often guarding themselves from a loss they've never talked about — once you know why, the hardness reads as human, not cruel.
+  Tema AS: small on-site-landlord apartment complex culture (drives the tenant-landlord conflict); urban leash-law/street-safety culture (drives the dog-escape danger).
+  PLOT DNA: 1) motor konflik: sudden physical danger (dog escapes into traffic) exposing underlying rent pressure | 2) relasi: tenant-landlord | 3) titik balik: Boone catches the dog just before impact and is struck by the memory of his own dog's cracked collar tag "Chief" | 4) resolusi: rent grace period + new collar for Dodger, with Chief's old tag looped on in tribute | 5) nada: tense-relief menuju quiet-warm | 6) hook: sudden physical action (dog breaks loose, truck passes)
+  Soft-limit elements used: kesulitan uang (telat sewa, tanpa angka/nasihat); bahaya fisik ringan tak disengaja pada hewan (S03, R10 aktif, tanpa cedera terlihat).
+  Karakter berulang (jika serial): none.
+  Summary: Boone menempel surat peringatan sewa di pintu Wren, lalu menyelamatkan anjingnya dari tabrakan dan tanpa sengaja membuka kembali kesedihannya sendiri, berakhir dengan kelonggaran sewa dan collar baru bertatahkan tag anjingnya yang telah tiada.
+
+---
+
 EP019 — The Card He Left Behind
   Logline: Colter Ashford, a rushed startup executive, topples Amos Whitlock's fruit cart on a sidewalk and refuses to help, unaware his access keycard has fallen loose during the confrontation, and must face the consequences of losing it right before his biggest meeting.
   Creator insight: People who rush too hard toward success often drop the small thing they need most, and the person they ignored is usually the only one who returns it without asking for anything back.
