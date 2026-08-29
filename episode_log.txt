@@ -1,7 +1,8 @@
-
 ════════════════════════════════════════════════════════════════════════
 EPISODE LOG — FILE EKSTERNAL (sumber utama pembanding ANTI-TEMPLATE RULE, BAGIAN 0.3)
 Aturan: 1 entri per episode selesai, ditambahkan di baris paling bawah. Entri lama tidak boleh diubah/dihapus. File ini disertakan bersama MASTER TEMPLATE di setiap sesi pembuatan cerita baru, dan versi terbarunya diserahkan kembali bersama JSON episode (MASTER TEMPLATE 0.7 langkah 0 & 7).
+
+CATATAN TAMBAHAN (field ekstra, di luar format MASTER TEMPLATE): setiap entri kini juga menyertakan baris "Summary" 1 kalimat di bawah "Karakter berulang" — ringkasan premis inti + twist + ending dalam satu kalimat, ditulis agar mudah dipindai/dibandingkan sekilas untuk mengecek kemiripan premis antar-episode sebelum cerita baru dibuat.
 
 Format per entry:
 EP[nomor] — [TITLE]
@@ -11,6 +12,7 @@ EP[nomor] — [TITLE]
   PLOT DNA: 1) motor konflik: ... | 2) relasi: ... | 3) titik balik: ... | 4) resolusi: ... | 5) nada: ... | 6) hook: ...
   Soft-limit elements used: ... (atau none)
   Karakter berulang (jika serial): ...
+  Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
 EP019 — The Card He Left Behind
@@ -20,6 +22,7 @@ EP019 — The Card He Left Behind
   PLOT DNA: 1) motor konflik: waktu+keangkuhan | 2) relasi: orang asing total | 3) titik balik: keycard jatuh tak disadari saat Colter membentak Amos | 4) resolusi: Colter terkunci di rapat karena kartunya sendiri, Amos mengembalikan tanpa pamrih | 5) nada: bittersweet-ironic ke quiet-drama | 6) hook: gerobak buah terguling mendadak
   Soft-limit elements used: none.
   Karakter berulang (jika serial): none.
+  Summary: Colter menabrak gerobak buah Amos dan menolak minta maaf, lalu kartu akses kantornya sendiri jatuh saat itu juga dan justru dikembalikan oleh Amos tanpa syarat.
 
 ---
 
@@ -30,6 +33,7 @@ EP018 — The Generator That Was Killing Him Quietly
   PLOT DNA: 1) motor konflik: bahaya kesehatan tak terlihat (CO) disalahartikan sebagai penindakan sewenang-wenang | 2) relasi: orang asing (pedagang vs figur otoritas) | 3) titik balik: petugas menunjukkan manifold retak & menjelaskan sains CO, Hector sadar air yang dituang adalah penyelamatan | 4) resolusi: pendaftaran ke program hibah kota untuk transisi UMKM energi bersih, unit lithium dikirim mitra program malam itu juga (bukan patungan pribadi rekan kerja) | 5) nada: tense-urgent menuju calm-relief dan quiet-grateful | 6) hook: aksi fisik mendadak (tendang kabel, sita, tuang air ke tangki) tanpa penjelasan
   Soft-limit elements used: kesulitan uang mendadak (motor cerita, tanpa angka, resolusi manusiawi).
   Karakter berulang (jika serial): none (standalone).
+  Summary: Hector mengira petugas pemadam yang merusak generatornya kejam, sampai ia sadar generator itu bocor karbon monoksida dan malah dibantu ganti unit energi bersih.
 
 ---
 
@@ -40,6 +44,7 @@ EP017 — The Window He Broke To Save A Stranger
   PLOT DNA: 1) motor konflik: bahaya fisik mendadak akibat badai, bukan uang/relasi/rahasia | 2) relasi: orang asing total | 3) titik balik: tali pengaman putus total, satu-satunya jalan adalah eksekutif memecahkan kaca anti-pelurunya sendiri | 4) resolusi: penyelamatan fisik langsung lewat pengorbanan properti pribadi | 5) nada: tense-relief menuju quiet-warm | 6) hook: aksi fisik mendadak (angin badai, alat terlempar, tali terkelupas)
   Soft-limit elements used: kesulitan biaya pengobatan anak (motor motivasi, tanpa angka/nasihat); bahaya fisik/kontak fisik ringan akibat kecelakaan dan penyelamatan (S04-S05, tanpa cedera terlihat, R10 aktif).
   Karakter berulang (jika serial): none.
+  Summary: Seorang eksekutif hedge fund memecahkan kaca anti-peluru kantornya sendiri di tengah badai untuk menyelamatkan pencuci jendela yang bekerja demi biaya pengobatan anaknya.
 
 ---
 
@@ -50,6 +55,7 @@ EP016 — Her Grocery Card Declined—Then the Cashier Did This Quietly
   PLOT DNA: 1) motor konflik: kartu belanja ditolak dan rasa malu publik | 2) relasi: cashier-customer menuju customer-community | 3) titik balik: ledger membuktikan dana berasal dari pelanggan biasa | 4) resolusi: dignity restored dan sistem bantuan dibuat permanen | 5) nada: quiet-tension menuju warm-relief | 6) hook: terminal PAYMENT DECLINED lalu groceries dikembalikan.
   Soft-limit elements used: kesulitan ekonomi sebagai konteks manusiawi, tanpa angka atau nasihat.
   Karakter berulang: Blythe Hargrove, Juniper Cole, Gage Whitlock.
+  Summary: Kasir toko kelontong diam-diam menutup kartu belanja pelanggan yang ditolak lewat dana bantuan dari sesama pelanggan, menjaga harga dirinya dan menjadikannya sistem tetap.
 
 EP015 — He Chased a Thief, and Found Someone to Save
   Logline: A hot-tempered bakery owner wants to catch and punish the stray dog that stole from his shop, but cornering it in a dead-end alley forces him to see who the dog was really stealing for, and he must decide whether his anger is worth more than a stranger's life.
@@ -58,6 +64,7 @@ EP015 — He Chased a Thief, and Found Someone to Save
   PLOT DNA: 1) motor konflik: pencurian (dimediasi hewan) yang berbalik jadi rasa bersalah & tanggung jawab | 2) relasi: segitiga manusia-hewan-manusia (pemilik toko - anjing liar - pemuda tunawisma) | 3) titik balik: pemilik toko melihat anjing meletakkan roti curian di pangkuan pemuda yang menggigil, sadar ini rutinitas harian | 4) resolusi: biaya perawatan ditanggung + pekerjaan di toko roti + anjing diadopsi jadi maskot | 5) nada: bittersweet ke heartwarming | 6) hook: aksi fisik mendadak (pencurian roti + kejaran pakai sapu)
   Soft-limit elements used: homelessness + hypothermia emergency (resolved humanely, no medical figures/advice); brief non-violent physical contact (S04, R10 applied).
   Karakter berulang (jika serial): none (episode standalone).
+  Summary: Pemilik toko roti mengejar anjing liar pencuri roti dan menemukan anjing itu selama ini berbagi makanan dengan remaja tunawisma, lalu menyelamatkan keduanya.
 
 ---
 
@@ -68,6 +75,7 @@ EP001 — The Guard She Underestimated
   PLOT DNA: 1) motor konflik: kewajiban tugas vs penghinaan pribadi | 2) relasi: pengawal-klien (bodyguard-employer) | 3) titik balik: Brutus mengadang dan mengancam Chloe di gang | 4) resolusi: kemenangan kecil, rekonsiliasi hormat (non-romantis) | 5) nada: tense-relief | 6) hook: aksi mendadak (Chloe menjatuhkan air ke sepatu Leo)
   Soft-limit elements used: konflik fisik (S02-S03, tanpa darah/luka, R10 aktif).
   Karakter berulang (jika serial): none (episode standalone).
+  Summary: Pengawal yang dihina remaja kaya yang dijaganya justru menyelamatkan nyawanya di gang beberapa jam kemudian, memenangkan rasa hormatnya.
 
 
 EP001 — The Photo in Her Wallet
@@ -77,6 +85,7 @@ EP001 — The Photo in Her Wallet
   PLOT DNA: 1) motor konflik: aturan/sistem vs waktu | 2) relasi: orang asing (teller-nasabah) | 3) titik balik: teller melihat foto anak nasabah yang lusuh jatuh dari dompet, mengingatkannya pada alasan pribadinya sendiri | 4) resolusi: kemenangan kecil lewat eskalasi manajer yang sah, bukan pelanggaran aturan | 5) nada: quiet-drama, tense-relief | 6) hook: layar sistem "TRANSACTION DENIED" muncul bersamaan nasabah memukul meja panik
   Soft-limit elements used: kesulitan uang (medical/ER urgency) — motor cerita, resolusi manusiawi, tanpa angka/nasihat keuangan ke penonton.
   Karakter berulang: none (episode standalone).
+  Summary: Teller credit union yang taat aturan memilih jalur eskalasi resmi—bukan melanggar aturan—untuk membantu ibu panik menarik dana darurat bagi anaknya yang sakit.
 
  ---
 
@@ -87,6 +96,7 @@ Tema AS: Integritas moral di tengah krisis finansial dan kesempatan kerja dari p
 PLOT DNA: 1) motor konflik: koper uang vs ancaman pengusiran | 2) relasi: orang asing → penolong & pengusaha | 3) pemuda mengejar pemilik koper hingga ke gedung kantor untuk mengembalikan uang | 4) pengusaha memberikan tawaran pekerjaan alih-alih sekadar tips | 5) warm-inspirational | 6) adegan mengejar kereta dan pilihan moral saat melihat foto keluarga di koper
 Soft-limit elements used: eviction notice (alasan krisis finansial).
 Karakter berulang (jika serial): none.
+Summary: Pemuda miskin terancam diusir menemukan koper uang di kereta, memilih mengembalikannya secara langsung, dan malah mendapat pekerjaan yang mengubah hidupnya.
 
 ---
 
@@ -97,6 +107,7 @@ Tema AS: Budaya kepedulian terhadap hewan peliharaan hilang dan kesempatan kedua
 PLOT DNA: 1) motor konflik: bertahan hidup di musim dingin | 2) relasi: tunawisma → anjing terlantar → keluarga pemilik | 3) menemukan poster anjing hilang dan menghubungi pemiliknya | 4) pemilik anjing memberikan pekerjaan dan seragam baru di proyek konstruksi | 5) heartwarming-emotional | 6) momen membagi sisa makanan terakhir di gang dingin
 Soft-limit elements used: none.
 Karakter berulang (jika serial): none.
+Summary: Tunawisma membagi makanan terakhirnya pada anjing terlantar, mengembalikannya ke pemilik, dan berujung mendapat pekerjaan serta kehidupan baru.
 
 ---
 
@@ -107,6 +118,7 @@ Tema AS: Isu kesepian pada lansia dan tradisi kesukarelaan komunitas lokal.
 PLOT DNA: 1) motor konflik: kesepian lansia vs kepedulian anak muda | 2) relasi: orang asing → cucu angkat → penyelemat masa kecil | 3) penemuan foto lama dari peristiwa banjir besar 15 tahun lalu | 4) terbentuknya gerakan kepedulian untuk mendatangi lansia kesepian di seluruh kota | 5) emotional-touching | 6) janji sederhana untuk kembali setiap hari Sabtu jam 2 siang
 Soft-limit elements used: trauma bencana alam (flood rescue background).
 Karakter berulang (jika serial): none.
+Summary: Gadis muda berpura-pura jadi cucu pria tua kesepian, lalu sadar pria itu adalah orang yang menyelamatkan nyawanya 15 tahun lalu saat banjir.
 
 ---
 
@@ -117,6 +129,7 @@ Tema AS: Bisnis toko roti lokal, pendampingan pemuda terpuruk, dan penyelamatan 
 PLOT DNA: 1) motor konflik: pencurian roti vs belas kasih | 2) relasi: pemilik toko & pencuri → mentor & murid → penyelamat bisnis | 3) toko roti terpaksa tutup dan dijual karena masalah keuangan | 4) murid yang kini sukses membeli properti dan membuka kembali toko roti tersebut | 5) warm-legacy | 6) dialog "Bukan cuma memberi pekerjaan, tapi memberi kehidupan."
 Soft-limit elements used: bankruptcy/financial closure (tanpa rincian angka).
 Karakter berulang (jika serial): none.
+Summary: Pemilik toko roti membalas remaja pencuri roti dengan mengajarinya membuat roti, dan remaja itu kelak menyelamatkan toko itu dari kebangkrutan.
 
 ---
 
@@ -127,6 +140,7 @@ Tema AS: Persaingan di akademi penerbangan AS dan diskriminasi kelas sosial.
 PLOT DNA: 1) motor konflik: diskriminasi kelas vs keahlian murni | 2) relasi: rivalitas rekrut kaya & rekrut biasa | 3) navigasi sukses di simulator kondisi badai ekstrem yang menggagalkan peserta lain | 4) klaim kecurangan dibantah oleh telemetry log resmi yang mengonfirmasi rekor baru | 5) intense-satisfying | 6) papan skor akhir menunjukkan posisi teratas akademi
 Soft-limit elements used: none.
 Karakter berulang (jika serial): none.
+Summary: Rekrut pilot dari kalangan biasa diejek rival kaya, memecahkan rekor simulator badai ekstrem, dan tuduhan curang dipatahkan oleh log telemetry resmi.
 
 ---
 
@@ -137,6 +151,7 @@ Tema AS: Budaya pedagang kaki lima (coffee cart culture) dan hubungan kepolisian
 PLOT DNA: 1) motor konflik: penyitaan gerobak vs sumber penghidupan | 2) relasi: penjual kopi → aparat polisi | 3) penjual dibawa ke alun-alun bukannya ke kantor polisi | 4) penyerahan kedai kopi modern baru hasil patungan seluruh presint | 5) emotional-comfort | 6) tangis haru saat menyentuh kedai kopi baru
 Soft-limit elements used: none.
 Karakter berulang (jika serial): none.
+Summary: Gerobak kopi milik penjual tua disita polisi karena pelanggaran, lalu seluruh kantor polisi mengejutkannya dengan kedai kopi baru hasil patungan.
 
 ---
 
@@ -147,6 +162,7 @@ Tema AS: Perlindungan keluarga dan kebiasaan berkumpul di diner lokal.
 PLOT DNA: 1) motor konflik: intimidasi pelanggan vs perlindungan saudara | 2) relasi: kakak & adik vs pengganggu | 3) deeskalasi konflik dan pengusiran pengganggu tanpa luka serius | 4) staf diner memberikan makanan gratis sebagai bentuk dukungan komunitas | 5) action-warm | 6) adegan beladiri taktis meredam serangan di gang hujan
 Soft-limit elements used: none.
 Karakter berulang (jika serial): none.
+Summary: Seorang pria membela adiknya dari pelanggan kasar di diner, memicu rentetan kebaikan dari staf sekitar.
 
 ---
 
@@ -157,6 +173,7 @@ Tema AS: Sengketa sewa apartemen dan intimidasi tetangga di kompleks hunian.
 PLOT DNA: 1) motor konflik: intimidasi tempat tinggal vs perlawanan diri | 2) relasi: perundung vs ibu-anak & komplotan warga | 3) penyerahan bukti rekaman intimidasi kepada pihak manajemen | 4) penghentian gertakan pengusiran dan pemulihan rasa aman warga | 5) tense-triumphant | 6) teknik beladiri spontan sang anak saat menghadapi intimidasi di tempat parkir
 Soft-limit elements used: none.
 Karakter berulang (jika serial): none.
+Summary: Tetangga yang berusaha mengusir sebuah keluarga secara sewenang-wenang digagalkan oleh bukti rekaman dan kekompakan warga.
 
 ---
 
@@ -167,6 +184,7 @@ Tema AS: Beasiswa penerbangan dan nilai integritas pribadi dalam masyarakat.
 PLOT DNA: 1) motor konflik: kemiskinan & impian tinggi vs godaan uang instant | 2) relasi: penemu dompet → pengusaha/mentor | 3) penolakan imbalan tunai dan penyerahan cek $100,000 bertahun-tahun kemudian | 4) pemuda berhasil menyelesaikan sekolah penerbangan dan menjadi pilot | 5) inspirational-uplifting | 6) penolakan uang imbalan dengan ucapan "Doing right is reward enough."
 Soft-limit elements used: none.
 Karakter berulang (jika serial): none.
+Summary: Pemuda miskin mengembalikan dompet berisi uang tanpa mengharap imbalan, dan bertahun-tahun kemudian diberi beasiswa penerbangan penuh oleh pemiliknya.
 
 ---
 
@@ -177,6 +195,7 @@ Tema AS: Dinamika penjara maksimum dan tropus agen rahasia menyamar.
 PLOT DNA: 1) motor konflik: intimidasi geng penjara vs agen rahasia | 2) relasi: pimpinan geng vs agen menyamar | 3) agen melumpuhkan seluruh anggota geng menggunakan nampan makan dalam hitungan detik | 4) kepala penjara memanggil sang agen untuk koordinasi misi lanjutan | 5) action-thriller | 6) penggunaan nampan makan sebagai perisai dan senjata pertahanan
 Soft-limit elements used: prison violence (dipertontonkan secara bergaya/stylized).
 Karakter berulang (jika serial): none.
+Summary: Geng penjara mengintimidasi narapidana baru yang ternyata agen rahasia, dan ia melumpuhkan seluruh geng hanya dengan nampan makan.
 
 ---
 
@@ -187,6 +206,7 @@ Tema AS: Hirarki korporat elit AS dan insiden keselamatan jalan raya.
 PLOT DNA: 1) motor konflik: prasangka penampilan vs keberanian menyelamatkan nyawa | 2) relasi: penolong → ibu CEO → satpam arogan | 3) kedatangan CEO yang menghentikan penangkapan salah sasaran oleh satpam | 4) perkenalan pria tersebut sebagai Chief of Security baru di depan para satpam yang menghinanya | 5) dramatic-satisfying | 6) transformasi dari pakaian lusuh ke setelan jas eksekutif di ruang rapat
 Soft-limit elements used: traffic accident risk (penyelamatan dari mobil melaju).
 Karakter berulang (jika serial): none.
+Summary: Pria berpenampilan lusuh yang dihina satpam gedung diangkat jadi Chief of Security baru setelah menyelamatkan nyawa ibu sang CEO.
 
 ---
 
@@ -197,6 +217,7 @@ Tema AS: Budaya kurir sepeda kota besar (urban bike messenger) dan spionase indu
 PLOT DNA: 1) motor konflik: Pengejaran paket rahasia vs meloloskan diri | 2) relasi: kurir sepeda vs musuh/pengejar | 3) lompatan nekat melompati rintangan peti kayu yang menghentikan pengejar | 4) keberhasilan meloloskan diri ke dalam kereta bawah tanah tepat sebelum pintu tertutup | 5) fast-paced action | 6) lompatan sepeda melewati rintangan kayu di gang sempit
 Soft-limit elements used: high-speed chase (aksi perkelahian/pengejaran tanpa senjata api langsung).
 Karakter berulang (jika serial): none.
+Summary: Kurir sepeda kabur dari kejaran bersenjata sambil membawa flashdrive rahasia, lolos tepat sebelum pintu kereta bawah tanah tertutup.
 
 ---
 
@@ -207,6 +228,7 @@ Tema AS: Interaksi personel militer dengan warga sipil dan trope *underestimated
 PLOT DNA: 1) motor konflik: keangkuhan militer vs taktik tempur sipil | 2) relasi: skuadron militer vs wanita terampil | 3) penangkapan serangan dan pembongkaran pertahanan lawan secara efisien | 4) penumpasan seluruh skuadron hingga mereka tergeletak di lantai | 5) intense-badass | 6) wanita dingin menganalisis titik lemah musuh sebelum melakukan serangan balik
 Soft-limit elements used: physical confrontation (pertarungan jarak dekat).
 Karakter berulang (jika serial): none.
+Summary: Sekelompok prajurit arogan mengintimidasi seorang wanita di tempat makan, tanpa sadar wanita itu ahli tempur yang menumpas mereka semua.
 
 ---
 
@@ -217,3 +239,4 @@ Tema AS: Classic urban apothecary/pharmacy culture; rainy city street settings s
 PLOT DNA: 1) motor konflik: kebutuhan obat mendesak vs aturan ketat apotik | 2) relasi: pria tua-asisten apoteker (patron-benefactor) | 3) titik balik: pemilik apotik membuang cincin nikah ke lantai | 4) resolusi: asisten apoteker memberikan obat secara gratis dan mengembalikan cincinnya | 5) nada: emotional-warmth | 6) hook: permohonan pria tua memegang dua cincin nikah di tengah hujan
 Soft-limit elements used: none
 Karakter berulang (jika serial): none (episode standalone).
+Summary: Pria tua menukar cincin nikahnya demi obat istrinya yang sakit, dan asisten apotek yang menolak perintah bosnya memberi obat gratis serta mengembalikan cincin itu.
