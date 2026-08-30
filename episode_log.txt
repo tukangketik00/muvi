@@ -15,6 +15,15 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP024 — The Key Sewn Into a Stranger's Jacket
+  Logline: Deacon Winslow, a former dockworker now sleeping on a city park bench, wants to save his late father's storage unit before it is cut open at dawn, but he has neither the key nor proof of standing, and finds both sewn into the lining of a jacket handed to him by a stranger who refuses to give his name.
+  Creator insight: Among American blue-collar men a debt of gratitude is almost never repaid in money and almost never repaid in public; the one repaying it walks off before he can be thanked, because being thanked would turn a settlement into a favor.
+  Tema AS: budaya self-storage dan lelang unit menunggak (memberi cerita tenggat keras pagi itu); budaya kerja pelabuhan dan solidaritas antar buruh lama (alasan Everett tahu siapa Deacon tanpa bertanya).
+  PLOT DNA: 1) motor konflik: waktu (tenggat penyitaan) + warisan yang tersembunyi | 2) relasi: mantan rekan kerja lintas generasi yang tidak saling mengenali | 3) titik balik: jahitan saku dalam jaket robek dan kunci gembok bertag nomor unit jatuh ke telapak tangan Deacon, nomornya sama dengan nomor di surat peringatan | 4) resolusi: hak milik diselamatkan tepat waktu, tapi penolongnya sengaja tidak pernah muncul lagi | 5) nada: tense-urgent menuju quiet-warm | 6) hook: cold open flash-forward, gunting gembok berhenti di udara
+  Soft-limit elements used: tunawisma (kondisi awal Deacon, resolusi manusiawi); tekanan uang berupa akun gudang menunggak (motor tenggat, tanpa angka/nasihat); duka atas ayah yang meninggal (selesai lewat aksi di S05). Kontak fisik antar tokoh: none.
+  Karakter berulang (jika serial): none.
+  Summary: Deacon menerima jaket dari orang asing yang menolak menyebut nama, menemukan kunci gembok unit gudang ayahnya dijahit di dalam lapisannya, menyelamatkan unit itu dari penyitaan tepat sebelum gemboknya dipotong, lalu tahu lewat catatan tanpa tanda tangan bahwa si pemberi sedang membayar utang budi lama kepada ayahnya di pelabuhan.
+
 EP023 — The Package Marked Fragile
   Logline: A small-town delivery driver holds back a certified envelope meant for the family of the town's star quarterback on championship morning, because he once opened an identical letter at the worst possible moment and lost everything that mattered that day.
   Creator insight: Protecting someone's moment is sometimes more urgent than being technically on time — timing can matter more than the delivery itself.
