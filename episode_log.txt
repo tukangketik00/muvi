@@ -15,6 +15,17 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP025 — The Test She Never Agreed To
+  Logline: Wyatt Calloway, heir to a family firm who spent eight months posing as a day-rate handyman, wants to propose to Nora Copeland after proving she loves him without knowing his wealth, but his identity is exposed first in the diner's back parking lane, and he must accept that the secret test he ran on her destroyed the very thing he wanted to prove.
+  Creator insight: American media sells the rich-person-in-disguise test as grand romance, but the person being tested is never told they are being graded; passing a test you never agreed to is not proof you are loved, it is proof you were being watched.
+  Tema AS: night-shift diner tip culture (drives Nora's frugality, the job-offer scene, and the parking lane as their only private space); cash day-rate handyman work culture (Wyatt's pay envelope as physical proof of his fake life, and the reason the big-job offer endangers his cover).
+  PLOT DNA: 1) motor konflik: rahasia identitas yang sengaja dipelihara plus persetujuan yang tidak pernah diminta | 2) relasi: pasangan tinggal bersama belum menikah | 3) titik balik: asisten pribadi memanggil nama lengkap dan jabatan asli Wyatt di depan Nora, ID perusahaan meluncur dan berhenti di kaki Nora | 4) resolusi: lamaran ditolak, hubungan diakhiri oleh pihak yang selama ini diuji | 5) nada: quiet-drama menuju bittersweet-firm | 6) hook: tangan menyembunyikan kotak cincin di bawah papan lantai tepat sebelum pintu terbuka
+  Soft-limit elements used: kesulitan uang berupa hidup pas-pasan (motor pendukung, tanpa angka/nasihat keuangan); rasa dikhianati dalam relasi (perjalanan emosi tuntas di S05 lewat keputusan sadar Nora, bukan dipajang tanpa resolusi).
+  Karakter berulang (jika serial): none.
+  Summary: Wyatt menyamar delapan bulan sebagai tukang reparasi untuk menguji ketulusan Nora tanpa persetujuannya, identitas aslinya terbongkar oleh asistennya di lorong parkir diner, dan saat ia melamar dengan cincin yang sudah lama disiapkan, Nora menolak karena ujian diam-diam itu adalah bentuk kontrol, bukan cinta, lalu pergi dengan tenang.
+
+---
+
 EP024 — The Key Sewn Into a Stranger's Jacket
   Logline: Deacon Winslow, a former dockworker now sleeping on a city park bench, wants to save his late father's storage unit before it is cut open at dawn, but he has neither the key nor proof of standing, and finds both sewn into the lining of a jacket handed to him by a stranger who refuses to give his name.
   Creator insight: Among American blue-collar men a debt of gratitude is almost never repaid in money and almost never repaid in public; the one repaying it walks off before he can be thanked, because being thanked would turn a settlement into a favor.
