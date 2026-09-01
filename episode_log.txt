@@ -15,6 +15,17 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP028 — The Driver Who Once Saved His Life
+  Logline: Marcus, a former paramedic turned substitute driver, is denied entry at a Chicago hotel valet for looking unpolished, but the VIP client he's driving turns out to be the man he saved from a car crash eight years ago, and must decide whether to accept the job offered in gratitude or return home to see his mother.
+  Creator insight: People who judge you by your uniform are usually the last to know what you've actually done, and real gratitude doesn't need a reward to mean something — Marcus turns down the job precisely because the debt was never his to collect.
+  Tema AS: hotel valet/lobby service-class culture drives the appearance-based conflict; gig-economy substitute driving is why Marcus declines the job offer.
+  PLOT DNA: 1) motor konflik: kesalahpahaman kelas sosial/penampilan | 2) relasi: orang asing yang pernah terhubung tanpa sadar (mantan pasien-penyelamat) | 3) titik balik: Richard mengenali wajah Marcus, mengungkap ia adalah paramedis yang menstabilkan napasnya sendirian 8 tahun lalu | 4) resolusi: kemenangan kecil + penolakan halus atas tawaran kerja | 5) nada: bittersweet-warm | 6) hook: kontras situasi (sopir ditolak vs sopir yang menyelamatkan nyawa VIP)
+  Soft-limit elements used: none (adu argumen sopan di S01, tanpa kontak fisik/kata kasar).
+  Karakter berulang (jika serial): none (episode standalone).
+  Summary: Marcus, sopir pengganti mantan paramedis, ditolak masuk hotel oleh satpam karena penampilannya, lalu klien VIP yang ia jemput ternyata pria yang pernah ia selamatkan di kecelakaan 8 tahun lalu, dan ia menolak tawaran kerja karena hanya ingin mengumpulkan uang untuk pulang menemui ibunya.
+
+---
+
 EP027 — The Note on the Wrong Windshield
   Logline: Marcus Bell wants to expose the person who damaged his car through an angry "proof" recording, but the apology note he finds doesn't match his assumption, and he must decide whether to keep hunting for someone to blame or accept that a stranger already took responsibility for a mistake that wasn't hers.
   Creator insight: The urge to record "evidence" of someone else's wrongdoing often blinds people to evidence of kindness happening right in front of them.
