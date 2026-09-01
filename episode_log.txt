@@ -15,6 +15,17 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP027 — The Note on the Wrong Windshield
+  Logline: Marcus Bell wants to expose the person who damaged his car through an angry "proof" recording, but the apology note he finds doesn't match his assumption, and he must decide whether to keep hunting for someone to blame or accept that a stranger already took responsibility for a mistake that wasn't hers.
+  Creator insight: The urge to record "evidence" of someone else's wrongdoing often blinds people to evidence of kindness happening right in front of them.
+  Tema AS: apology-note-on-the-windshield culture after a fender-bender; minimarket parking-lot CCTV/parking-receipt tracking drives the entire investigation.
+  PLOT DNA: 1) motor konflik: kesalahpahaman identitas pelaku | 2) relasi: orang asing | 3) titik balik: CCTV membuktikan Nadia cuma saksi, bukan penabrak, karena penabrak asli kabur akibat istrinya melahirkan | 4) resolusi: rekaman yang diniatkan jadi bukti tuduhan berubah jadi rekaman ucapan terima kasih | 5) nada: bittersweet-warm | 6) hook: aksi mendadak, syok lihat penyok lalu langsung merekam.
+  Soft-limit elements used: none.
+  Karakter berulang (jika serial): none (episode standalone).
+  Summary: Marcus mengira mobilnya ditabrak dan kabur begitu saja, marah dan mulai merekam sebagai "bukti", lalu lewat catatan permintaan maaf dan rekaman CCTV parkiran ia menemukan Nadia yang bukan pelaku tapi memilih menanggung ganti rugi demi penabrak asli yang buru-buru ke rumah sakit, dan Marcus mengubah rekamannya jadi ucapan terima kasih.
+
+---
+
 EP026 — The Pie She Kept Alive
   Logline: Walt Hendricks, a pie shop owner who has stopped believing he can bake anything worth entering, doesn't know his daughter has secretly signed him up for the county fair using his late wife's recipes, and he must decide whether to pick up the legacy she left behind or let the entry go to waste.
   Creator insight: A recipe left in a box isn't a memory yet — it only becomes one when someone's hands make it again.
