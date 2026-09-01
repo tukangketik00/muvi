@@ -15,6 +15,17 @@ EP[nomor] — [TITLE]
   Summary: ... (ringkasan premis 1 kalimat — dipakai untuk cek kemiripan lintas-episode)
 ════════════════════════════════════════════════════════════════════════
 
+EP026 — The Pie She Kept Alive
+  Logline: Walt Hendricks, a pie shop owner who has stopped believing he can bake anything worth entering, doesn't know his daughter has secretly signed him up for the county fair using his late wife's recipes, and he must decide whether to pick up the legacy she left behind or let the entry go to waste.
+  Creator insight: A recipe left in a box isn't a memory yet — it only becomes one when someone's hands make it again.
+  Tema AS: County Fair Baking Competition drives the plot through a secret registration and public judging; the family-run pie shop is both setting and stakes.
+  PLOT DNA: 1) motor konflik: rahasia (pendaftaran diam-diam) | 2) relasi: ayah-anak | 3) titik balik: Walt menemukan buku catatan Ruthie berisi percobaan resep ibunya yang gagal berulang kali, terselip di balik formulir pendaftaran | 4) resolusi: rekonsiliasi + kemenangan kecil (membuka kembali toko dengan nama resep ibunya) | 5) nada: bittersweet-warm | 6) hook: aksi visual mendadak + dialog tajam (Walt membuang pai gagal sambil bergumam bukan pembuat pai kompetisi)
+  Soft-limit elements used: none.
+  Karakter berulang (jika serial): none (episode standalone).
+  Summary: Ruthie diam-diam mendaftarkan ayahnya, Walt, ke kompetisi memanggang county fair memakai resep mendiang ibunya, dan setelah amarah Walt luruh saat menemukan catatan percobaan Ruthie yang gagal berulang kali, mereka membuat ulang resep itu bersama dan Walt membuka kembali toko pai dengan nama resep ibunya terpampang.
+
+---
+
 EP025 — The Test She Never Agreed To
   Logline: Wyatt Calloway, heir to a family firm who spent eight months posing as a day-rate handyman, wants to propose to Nora Copeland after proving she loves him without knowing his wealth, but his identity is exposed first in the diner's back parking lane, and he must accept that the secret test he ran on her destroyed the very thing he wanted to prove.
   Creator insight: American media sells the rich-person-in-disguise test as grand romance, but the person being tested is never told they are being graded; passing a test you never agreed to is not proof you are loved, it is proof you were being watched.
