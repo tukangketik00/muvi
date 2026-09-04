@@ -1,3 +1,12 @@
+EP029 — The Man Who Yelled at Me to Save Me
+Logline: Elena Reyes, whose husband is in a coma, has her benefits card declined at Copperline Market and the manager threatens to call the police — until stranger Jubal Copeland snatches her bread and milk and shoves her out of the line, only to fill her trunk with groceries and cash in the parking lot; four years later, Elena, now a paralegal, quietly wins him a settlement after he is fired without severance.
+Creator insight: Sometimes kindness has to disguise itself as cruelty to slip past the system; the fairest repayment is not money but skill — turning a fake customer fight into a real legal fight for someone else.
+Tema AS: State food-benefit cards and supermarket loss-prevention police calls; corporate "restructuring" layoffs without severance.
+PLOT DNA: 1) motor konflik: kesalahpahaman yang disengaja (kebaikan menyamar) + uang | 2) relasi: orang asing → penolong terselubung → penolong balik lintas tahun | 3) titik balik: di parkiran, Jubal memindahkan dua kantong belanjaan + uang ke bagasi Elena dan mengaku bentakannya sandiwara | 4) resolusi: balas budi lintas tahun lewat keahlian paralegal, bukan uang | 5) nada: tense-misdirection → bittersweet-warm | 6) hook: dialog tajam manajer mengangkat kartu ditolak: "Card's dead, ma'am. Pay, or step aside — or I'm calling it in."
+Soft-limit elements used: food-benefit card decline & money hardship (no figures/advice); husband in coma (mentioned only); police threat (no legal advice); one shoulder bump (S02, R10 active S02-S05); layoff without severance (no figures; settlement amount never spoken).
+Karakter berulang: Elena Reyes (38, senior paralegal), Jubal Copeland (44, freight worker), Royce Prescott (52, store manager), Tallulah (24, cashier).
+Summary: A stranger fakes a cruel outburst to save a broke mother from the police, and years later she repays him by winning his wrongful-termination case.
+
 ════════════════════════════════════════════════════════════════════════
 EPISODE LOG — FILE EKSTERNAL (sumber utama pembanding ANTI-TEMPLATE RULE, BAGIAN 0.3)
 Aturan: 1 entri per episode selesai, ditambahkan di baris paling bawah. Entri lama tidak boleh diubah/dihapus. File ini disertakan bersama MASTER TEMPLATE di setiap sesi pembuatan cerita baru, dan versi terbarunya diserahkan kembali bersama JSON episode (MASTER TEMPLATE 0.7 langkah 0 & 7).
