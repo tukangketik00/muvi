@@ -352,3 +352,33 @@ COMPLIANCE: ✅ YouTube AI Policy July 2025 safe | No violence/blood/weapons | N
 DNA SIMILARITY vs EP01-34: ~0% (no duplicate dealership/elderly discrimination plot in existing log)
 
 STATUS: Production ready | JSON delivered | Master Template v4 compliant
+
+EP36 — He Smashed Her Late Mom's Cake at His Wedding #shorts #karma
+
+LOGLINE: An arrogant groom destroys a simple handmade cake brought to his luxury wedding venue by a modest elderly woman, unaware she is his bride's late mother's closest friend delivering the mother's final recipe—prompting the bride to call off the wedding on the spot.
+
+PLOT DNA: (1) Protagonist: Aunt Esther (68, gentle working-class baker, late mother's beloved friend fulfilling sacred legacy) & Lenora (27, principled bride honoring deceased mother) (2) Antagonist: Grant (29, wealthy arrogant groom, classist, destructive entitlement) & Marcus (38, rigid security guard) (3) Conflict: Public humiliation and physical destruction of irreplaceable sentimental memorial cake at exclusive wedding venue gates (4) Reversal: Bride rushes to scene, embraces weeping elder, reveals the cake was her late mother's final dying recipe, and drops her engagement ring (5) Moral: True character is never measured by how one treats those they wish to impress, but how they treat someone they believe has no power or value (6) Payoff: Wedding canceled on the spot, bride walks away arm-in-arm with elder, groom left frozen in ruin beside cake crumbs
+
+THEMES: Honoring late parents & grief legacy • Blue-collar elder dignity • Pre-marital moral character test • Rejection of classist entitlement • Restorative justice & public accountability
+
+CHARACTERS: Esther (68, elderly woman, oatmeal knit cardigan, pleated charcoal skirt, tortoiseshell glasses, gentle dignified baker) | Grant (29, groom, midnight-black designer tuxedo, slicked dark hair, sneering, arrogant) | Lenora (27, bride, ivory silk mikado gown, sheer tulle veil, moral conviction, deep brown eyes) | Marcus (38, security guard, charcoal navy blazer, rigid security stance)
+
+LOCATIONS: The Grand Oak Manor Exterior Gate (ornate wrought-iron gate, limestone pillars, cobblestone driveway, white roses, autumn daylight)
+
+PROPERTIES: Two Rustic Kraft Bakery Boxes (stacked brown boxes tied with jute twine, recipe card "Eleanor's Lemon Honey Cake") | Smashed Memorial Cake (ruined yellow sponge cake, lemon curd smear, broken twine, facedown card on cobblestones) | Gold Money Clip with Hundred Dollar Bills (18k gold clip with crisp banknotes)
+
+SCENES: 8 scenes x 15 seconds = 120 seconds total
+S01 [00-15s]: Esther arrives at manor gates carrying two kraft bakery boxes; security guard Marcus harshly blocks her, mistaking her for a street vendor.
+S02 [15-30s]: Esther politely displays the handwritten recipe card and asks to alert the bride; Marcus coldly rejects her and threatens physical escort.
+S03 [30-45s]: Groom Grant strides down the driveway, insults Esther's appearance, and arrogantly tosses hundred-dollar bills at her feet to leave.
+S04 [45-60s]: Esther firmly refuses the money; Grant flies into a narcissistic rage, snatches the boxes, and violently smashes the cake onto cobblestones.
+S05 [60-75s]: Bride Lenora rushes out in her wedding gown, gasps at the ruined cake, and drops to her knees to embrace weeping Esther in heartfelt apology.
+S06 [75-90s]: Grant questions why Lenora cares about a "street peddler"; Lenora reveals Esther was her late mother's best friend delivering her mother's dying recipe.
+S07 [90-105s]: Grant panics and desperately offers to buy an expensive replacement cake; Lenora removes her diamond engagement ring and drops it at his feet.
+S08 [105-120s]: Grant protests that it was "just a cake"; Lenora delivers the moral truth that his cruelty revealed his true soul, walking away arm-in-arm with Esther.
+
+COMPLIANCE: ✅ YouTube AI Policy July 2025 safe | No violence/blood/weapons | No real brands | Fictional characters | Soft-limit conflict only | Restorative ending
+
+DNA SIMILARITY vs EP01-35: ~0% (unique wedding venue, memorial cake destruction, and called-off wedding moral test)
+
+STATUS: Production ready | JSON delivered | Master Template v4 compliant
