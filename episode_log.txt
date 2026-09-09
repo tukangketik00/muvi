@@ -322,3 +322,33 @@ EP34 — He Mocked Her Appearance at the Lounge — Then His Boss Saw the Footag
   Soft-limit elements used: job loss (consequence of policy breach, justified by documented misconduct, not gratuitous); viral accountability (limited to misconduct documentation, no doxxing/harassment encouraged).
   Karakter berulang (jika serial): none
   Summary: Petugas lounge bandara mengusir penumpang economy berpenampilan lusuh dengan cara kasar dan merendahkan tanpa menawarkan bantuan profesional, tindakan yang terekam kamera justru melanggar protokol layanan perusahaan dan memicu pemecatan langsung oleh supervisor setelah footage viral—karena setiap penumpang berhak diperlakukan dengan hormat terlepas dari kelas tiket mereka.
+
+EP35 — She Was Kicked Out of the Luxury Dealership — Until They Saw Her Bank Statement
+
+LOGLINE: An elderly woman in worn clothes is humiliated and ejected from a car dealership by a dismissive male salesman. Outside, a compassionate female salesperson discovers the woman came to buy a car with cash for her late husband's dream — and walks her back inside to close the dealership's biggest sale of the year.
+
+PLOT DNA: (1) Protagonist: Elderly working-class woman, modest appearance, hidden financial means, emotionally driven by love/loss (widow honoring late husband) (2) Antagonist: Classist car salesman, dismissive, surface-judgment, public humiliation (3) Conflict: Dignity violation via appearance-based discrimination in service environment (4) Reversal: Compassionate peer intervenes + protagonist reveals hidden capability (cash purchase + emotional backstory with photo) (5) Moral: Service integrity transcends appearance; empathy unlocks human connection & professional success (6) Payoff: Quiet triumph, restorative justice, legacy fulfillment (widow purchases late husband's dream car), antagonist's silent regret
+
+THEMES: Blue-collar dignity & financial invisibility • Classism in retail spaces • Female solidarity in male-dominated sales culture • Grief, love, and legacy • "Don't judge a book by its cover" with real emotional stakes
+
+CHARACTERS: Martha (72, elderly woman, shabby beige coat, brown handbag, warm hazel eyes, gentle face) | Derek (32, male salesman, black suit, slicked hair, cold blue eyes, arrogant) | Jenna (28, female salesperson, Hispanic/Latina, navy blazer, warm compassionate, professional)
+
+LOCATIONS: Suburban car dealership showroom (mid-range, clean tile floor, glass windows, generic SUVs displayed, "RIVERSIDE AUTO" fictional brand) | Dealership exterior bench area (wooden bench under tree, parking lot, clear day)
+
+PROPERTIES: Martha's worn brown leather handbag with contents (white bank envelope with cash, faded photo of late husband beside SUV brochure, reading glasses) | Car key fob
+
+SCENES: 8 scenes x 15 seconds = 120 seconds total
+S01 [00-15s]: Martha enters dealership, Derek dismisses her based on appearance
+S02 [15-30s]: Derek publicly humiliates Martha, gestures her to leave, she exits tearfully
+S03 [30-45s]: Outside, Jenna (female salesperson) finds Martha on bench, asks what happened
+S04 [45-60s]: Martha reveals cash in handbag + photo of late husband's dream SUV, emotional backstory
+S05 [60-75s]: Jenna offers to help, they walk back into dealership together with dignity
+S06 [75-90s]: Inside, Derek freezes seeing them return, Jenna gives him withering look, turns warmly to Martha
+S07 [90-105s]: Jenna and Martha complete paperwork, manager shakes Martha's hand, cold glance at Derek, key fob handed over
+S08 [105-120s]: Martha and Jenna walk toward exit, Martha holds key fob and photo, freeze frame with text overlay "Respect costs nothing. Kindness is priceless."
+
+COMPLIANCE: ✅ YouTube AI Policy July 2025 safe | No violence/blood/weapons | No real brands | Fictional characters | Soft-limit conflict only | Restorative ending
+
+DNA SIMILARITY vs EP01-34: ~0% (no duplicate dealership/elderly discrimination plot in existing log)
+
+STATUS: Production ready | JSON delivered | Master Template v4 compliant
