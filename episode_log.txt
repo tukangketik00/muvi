@@ -669,3 +669,19 @@ EP72: Tukang roti miskin terancam pengusiran sewa bagi sisa roti terakhir ke anj
   Creator insight: Kebaikan sejati bukan transaksi moneter instan, melainkan penyelamatan hidup fisik yang melahirkan ikatan persaudaraan nyata di tengah kerasnya hidup kelas pekerja.
   Tema AS: Rust-belt survival, etos kerja tukang roti lokal Amerika, kerentanan pengusaha kecil terhadap krisis musim dingin.
   PLOT DNA: [Motor Konflik: Ancaman pengusiran sewa dan kebocoran pipa gas komersial di malam badai] | [Relasi: Joseph 'Joe' Kovacs vs Buster si anjing liar] | [Titik Balik: Buster mendobrak pintu dapur dan menarik celana Joe saat gas melumpuhkannya] | [Resolusi: Joe menutup katup darurat utama tepat waktu; keduanya selamat dan bersatu sebagai rekan sejati] | [Mood: Dingin mencekam, klaustrofobik tegang, hangat mengharukan] | [Hook: Tangan bertepung membelah kerak roti hangat untuk anjing menggigil di salju]
+
+EP73 — Mechanic Exposed Chain Shop Scam On Old Lady #shorts #karma
+
+  Logline: Seorang service advisor bengkel waralaba menahan mobil janda pensiunan guru dan menagih overhaul transmisi bodong $3.850 dengan bukti bubuk besi palsu, sebelum seorang mekanik veteran independen membongkar klip solenoid yang sengaja dicabut menggunakan scanner diagnostik OBD-II dan memperbaikinya dalam 10 detik di hadapan publik.
+
+  Creator insight: Penipuan industri servis otomotif korporat mengandalkan asimetri informasi teknis untuk menakut-nakuti konsumen rentan; martabat kelas pekerja sejati tidak terletak pada sertifikat korporat mentereng, melainkan pada keberanian teknisi jujur membela masyarakat kecil lewat sains dan integritas mekanik murni.
+
+  Tema AS: American automotive repair consumer rights (Right to Repair), FTC automotive scam enforcement, suburban Ohio chain repair predatory sales tactics, blue-collar mechanical integrity, elderly widow consumer protection.
+
+  PLOT DNA: 1) motor konflik: Service advisor korporat memeras janda pensiunan guru dengan vonis transmisi rusak $3.850 dan menolak menyerahkan kunci | 2) relasi: Hank Miller (mekanik veteran independen, 56) vs Trent Vance (service advisor manipulatif, 28) vs Martha Jenkins (janda pensiunan guru, 70) | 3) titik balik: Hank mendeteksi kode digital P0753 pada scanner OBD-II dan membuktikan serbuk logam tidak magnetis (bubuk gerinda aluminium), lalu menancapkan kembali klip solenoid yang sengaja dicungkil | 4) resolusi: Trent panik saat Hank merekam bukti invoice dan mengancam hotline jaksa agung Ohio; Trent merobek invoice $3.850 dan mengembalikan kunci gratis; Martha pulang dengan mesin sehat | 5) nada: Tegang menekan → konfrontasi teknis tajam → pembuktian forensik memuaskan → hangat bermartabat | 6) hook: Trent membanting clipboard tagihan aluminium $3.850 ke kap mesin Ford tua di depan Martha yang menggigil ketakutan.
+
+  Soft-limit elements used: none
+
+  Karakter berulang (jika serial): none
+
+  Summary: Trent Vance menolak mengembalikan kunci sedan Ford milik Martha Jenkins dan menuntut $3.850 untuk perbaikan transmisi fiktif menggunakan serbuk gerinda aluminium; Hank Miller melangkah masuk, menggunakan hak inspeksi Ohio Revised Code 1345, membuktikan kebohongan dengan magnet dan scanner OBD-II, lalu menancapkan kembali harness solenoid transmisi dalam 10 detik — Trent terpaksa merobek tagihan palsu di bawah sorotan kamera dan tatapan para saksi.
