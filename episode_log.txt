@@ -742,3 +742,16 @@ Narrative: Late-night municipal tow truck driver Caleb hooks an unauthorized sed
 SEO Title: Tow Driver Hooked Desperate Mom's Car Then Saw Why #shorts #karma
 Retention Re-Hook: Wait for the moment the pharmacy receipt hits the wet pavement at 00:52...
 --------------------------------------------------
+
+--------------------------------------------------
+EP79: COP KICKED SHIVERING CLEANER OFF BUS THEN SAW HER ID
+Status: Completed
+Date: 2026-09-26
+Duration: 120s (8 Scenes x 15s)
+Characters: Marcus Cole (@image1), Officer Brad Higgins (@image2), Teresa Ruiz (@image3)
+Locations: City Transit Bus Driver Cab & Farebox Area (@image4), City Transit Bus Passenger Cabin Interior (@image5), Suburban Transit Terminal Exterior Turn-Around Bay (@image6)
+Properties: Soggy Ripped Paper Transit Transfer Ticket (@image7), Municipal Transit Operator Log Manifest & Metal Clipboard (@image8), Laminated Hospital Laundry Sanitation ID Badge (@image9)
+Narrative: Late-night municipal transit officer Brad Higgins intercepts shivering hospital sanitation worker Teresa Ruiz boarding the last cross-town bus in a 19-degree sleet storm; her transfer ticket is soaked and dissolved into illegible purple ink. Officer Higgins rigidly orders her off into the freezing night until 22-year veteran driver Marcus Cole sets the emergency air brakes, stands up, and invokes Section 14-B of the transit charter, signing his own disciplinary liability on the dispatch clipboard to guarantee her ride. As Teresa moves toward the heated cabin seats in gratitude, her heavy laminated hospital ID drops onto the rubber floor mat; Higgins picks it up and discovers she is a biohazard ICU sterilizer who just finished a 12-hour shift scrubbing surgical suites for blizzard victims. Humbled and struck with remorse, Higgins takes off his cap, offers a formal apology, scans his personal 30-day transit pass for her, and driver Marcus shares his hot thermos coffee as the bus rolls into the storm. Seamless visual and audio loop of bus headlights cutting through wet sleet into Scene 01.
+SEO Title: Cop Kicked Shivering Cleaner Off Bus Then Saw Her ID #shorts #karma
+Retention Re-Hook: Wait for the moment the laminated hospital pass hits the floor mat at 01:14...
+--------------------------------------------------
