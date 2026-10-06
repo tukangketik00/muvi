@@ -794,3 +794,16 @@ Retention Re-Hook: Wait for the moment the guest answers the desk phone at 01:05
 - Props: Scuffed Blue Plastic Trunk Suitcase (@image7), Hand-Carved Oak Walking Cane (@image8), Luxury Real Estate Purchase Portfolio (@image9), Vintage Architectural Blueprint Scroll (@image10), Official Notarized Deed Title Certificate (@image11).
 - Duration: 8 scenes x 15s (Total 120s), seamless loop (Scene 08 P4 trunk latch snap and door creak loops seamlessly back into Scene 01 P1 trunk latch slam).
 - Narrative: Kevin tries to violently evict elderly craftsman Elijah to sell the 40-million-dollar villa, pushing him and throwing his clothes. Luxury broker Dana arrives, notices master carvings, halts Kevin, and inspects vintage 1984 blueprints with gold municipal seal on Elijah's workbench. Dana exposes that Kevin's father was never the buyer, reveals an unencumbered sole deed certificate proving Elijah owns the entire estate, rips the sales contract in half, and threatens criminal fraud prosecution. Kevin collapses to his knees sobbing in remorse, meticulously folding Elijah's clothes, and leaves in complete disgrace.
+
+--------------------------------------------------
+EP84: WAITER FIRED FOR SPILLED WINE, THEN THE FOOTAGE PLAYED
+Status: Completed
+Date: 2026-10-06
+Duration: 150s (10 Scenes x 15s)
+Characters: Danny Reyes (@image1), Chef Marcus Hale (@image2), Brent Callahan (@image3), Gloria Pruitt (@image4), Ruth Delaney (@image5)
+Locations: Alder & Finch Dining Room (@image6), Alder & Finch Host Stand Foyer (@image7), Alder & Finch Rainy Street Sidewalk (@image8)
+Properties: Service Tray With Five Red Wine Glasses (@image10), Black Waist Apron (@image11), Manager's Smartphone Showing Security Footage (@image12), Chef's Business Card (@image13)
+Narrative: Waiter Danny carries five glasses against the house rule of four; undercover-reviewing Chef Hale's friend Brent stands abruptly and elbows the tray, soaking the chef's ivory jacket, then stays silent. Manager Gloria fires Danny on the spot. Quiet corner diner Ruth makes Gloria play the ceiling-camera footage; it shows Brent's elbow, though Ruth notes the five-glass rule was still Danny's fault. Chef Hale watches, shames Brent, apologizes to the room, and meets Danny at the rainy bus bench; Danny admits the five glasses, Chef offers him head waiter at the new Hale & Ash, Gloria offers his old job back with the rule still four. Loop: Danny counts the glasses at the end and continues counting into Scene 01 P1.
+SEO Title: Waiter Fired, Spilled Wine... When the Footage Played... #shorts #Karma
+Retention Re-Hook: Wait for the moment the footage plays at 01:00...
+--------------------------------------------------
